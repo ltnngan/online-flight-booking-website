@@ -1,0 +1,24 @@
+# Node modules
+/backend/node_modules/
+
+# Environment files
+/backend/.env
+/backend/.env.local
+/backend/.env.*
+
+# Uploaded files
+/backend/public/uploads/
+
+# Build and logs
+/backend/dist/
+/backend/build/
+/backend/logs/
+/backend/*.log
+/backend/**/*.log
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
